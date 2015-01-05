@@ -1,0 +1,28 @@
+Install-WindowsUpdate -Full
+Enable-RemoteDesktop
+
+cinst ChocolateyGUI
+cinst 7Zip
+cinst notepadplusplus
+cinst dotnet4.5.2
+cinst firefox
+cinst RocketDock
+cinst bitdefenderavfree
+cinst bitdefender-usb-immunizer
+cinst logmein.client
+cinst btsync
+cinst crashplan
+cinst Sysinternals
+cinst openssh
+cinst sandboxie
+cinst foxitreader
+cinst cutepdf
+cinst teracopy
+cinst ccleaner
+cinst nCleaner
+cinst hosts.editor
+cinst unchecky
+cinst glasswire
+cinst adwcleaner
+cinst smplayer 
+cinst nssm 
