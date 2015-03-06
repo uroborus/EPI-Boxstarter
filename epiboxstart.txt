@@ -6,6 +6,7 @@ cinst 7Zip
 cinst notepadplusplus
 cinst dotnet4.5.2
 cinst firefox
+cinst google-chrome-x64
 cinst RocketDock
 cinst bitdefenderavfree
 cinst bitdefender-usb-immunizer
